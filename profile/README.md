@@ -1,5 +1,4 @@
-# .github
+# Marshall-Security
 
-Marshall-Security  Discord Bot stuff.
 
 Most repositories are private though.
